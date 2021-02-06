@@ -4,7 +4,7 @@ siteName: 小兮
 # favicon and site master avatar
 favicon: /images/favicon.JPG
 avatar: /img/custom/avatar.jpg
-url: https://yuncxa.github.io
+url: https://yuncxa.github.io/
 description: 
 cdn: https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9
 pjax: 1
