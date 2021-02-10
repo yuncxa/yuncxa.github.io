@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuncxa.github.io/"/>
-  <updated>2021-02-06T08:54:20.870Z</updated>
+  <updated>2021-02-10T02:24:21.322Z</updated>
   <id>https://yuncxa.github.io/</id>
   
   <author>
@@ -17,24 +17,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>阿辉大帅比</title>
-    <link href="https://yuncxa.github.io/2021/02/06/%E9%98%BF%E8%BE%89%E5%A4%A7%E5%B8%85%E6%AF%94/"/>
-    <id>https://yuncxa.github.io/2021/02/06/阿辉大帅比/</id>
-    <published>2021-02-06T04:37:44.501Z</published>
-    <updated>2021-02-06T08:54:20.870Z</updated>
+    <title>Hexo-Sakura-github=blog</title>
+    <link href="https://yuncxa.github.io/2021/02/09/hexo-sakura-github-blog/"/>
+    <id>https://yuncxa.github.io/2021/02/09/hexo-sakura-github-blog/</id>
+    <published>2021-02-09T13:51:01.000Z</published>
+    <updated>2021-02-10T02:24:21.322Z</updated>
     
     <summary type="html">
     
-      阿辉大帅比
+      憨憨用hexo-sakura主题与GitHub建立个人博客的经历
     
     </summary>
     
       <category term="技术" scheme="https://yuncxa.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="https://yuncxa.github.io/tags/web/"/>
-    
-      <category term="悦读" scheme="https://yuncxa.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+      <category term="\- web
+\- 悦读" scheme="https://yuncxa.github.io/tags/web-%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -54,6 +53,28 @@
           &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
+    
+    </summary>
+    
+      <category term="技术" scheme="https://yuncxa.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://yuncxa.github.io/tags/web/"/>
+    
+      <category term="悦读" scheme="https://yuncxa.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿辉大帅比</title>
+    <link href="https://yuncxa.github.io/2021/02/06/%E9%98%BF%E8%BE%89%E5%A4%A7%E5%B8%85%E6%AF%94/"/>
+    <id>https://yuncxa.github.io/2021/02/06/阿辉大帅比/</id>
+    <published>2021-02-06T04:37:44.501Z</published>
+    <updated>2021-02-06T08:54:20.870Z</updated>
+    
+    <summary type="html">
+    
+      阿辉大帅比
     
     </summary>
     
