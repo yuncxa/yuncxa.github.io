@@ -62,8 +62,8 @@ bgclass:
 # startdash url, title, desc img
 startdash: 
   - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
-  - {url: http://space.bilibili.com/271849279, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
-  - {url: /, title: hojun的万事屋, desc: 技术服务, img: /img/startdash/wangshiwu.jpg}
+  - {url: https://space.bilibili.com/688409466?from=search&seid=9179059368291672722, title: Bilibili, desc: 博主追的番, img: /img/startdash/bilibili.jpg}
+  # - {url: /, title: hojun的万事屋, desc: 技术服务, img: /img/startdash/wangshiwu.jpg}
 
 
 
