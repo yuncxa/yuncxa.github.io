@@ -6,13 +6,13 @@ favicon: /images/favicon.JPG
 avatar: /img/custom/avatar.jpg
 url: https://yuncxa.github.io/
 description: 
-cdn: https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9
+cdn: https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1
 pjax: 1
 # 1开启
 mathjax: 0
 
 notice: 根据hexo-Sakura主题制作，正在学习中...
-lazyloadImg: https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: /, fa: fa-fort-awesome faa-shake }
@@ -25,7 +25,7 @@ menus:
   } }
   清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
     书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
-    番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    追番: {path: /bangumi/, fa: fa-film faa-vertical }, 
     歌单: {path: /music/, fa: fa-headphones },
     图集: {path: /tags/图集/, fa: fa-photo }
   } }
@@ -37,8 +37,8 @@ menus:
     主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
     Lab: {path: /lab/, fa: fa-cogs },
   } }
-  客户端: { path: /client/, fa: fa-android faa-vertical }
-  RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
+  # 客户端: { path: /client/, fa: fa-android faa-vertical }
+  # RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
 
 
 # Home page sort type: -1: newer first，1: older first.
@@ -47,14 +47,14 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(7).jpg.webp
-  - https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(1).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(2).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(3).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(4).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(5).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(6).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(7).jpg.webp
+  - https://cdn.jsdelivr.net/gh/yuncxa/cdn@0.9.1/img/cover/(8).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: 
@@ -84,7 +84,7 @@ social:
 msocial:
   github: {url: http://github.com/yuncxa, fa: fa-github, color: 333}
   # weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
-  qq: {url: https://wpa.qq.com/msgrd?v=3&uin=954655431&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+  qq: {url: http://github.com/yuncxa, fa: fa-qq, color: 25c6fe}
 
 donate:
   # paypal: https://www.paypal.me/hojuncn
@@ -99,7 +99,7 @@ movies:
   name: Unbroken.mp4
 
 aplayer: 
-  id: 2660651585
+  id: 6603860717
   server: netease
   type: playlist
   fixed: true
@@ -112,6 +112,6 @@ aplayer:
 
 # Valine
 valine: true
-v_appId: a15260056838@163.com
-v_appKey: 448465477abcdeA
+v_appId: gpNnC6q7jp0DMNTSYOpP62be-gzGzoHsz
+v_appKey: 5vsW5PDqykvzn5c1vAEVnNq3
 

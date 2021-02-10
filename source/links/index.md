@@ -2,7 +2,7 @@
 layout: links
 title: links
 date: 2018-12-19 23:11:06
-keywords: 友人帐
+keywords: 友链呀
 description: 
 comments: true
 photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/links.jpg
@@ -29,4 +29,7 @@ links:
       img: https://cloud.moezx.cc/Picture/svg/landscape/fields.svg
       name: Google
       desc: Google 镜像
+  - group: ”光荣牺牲“
+    desc: 可惜了~
+    
 ---
